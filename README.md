@@ -140,6 +140,7 @@ Foreign Key:
 # 5. ER Model
 
 The four tables are connected through `CUSTOMER_ID`.
+![ER MODEL](ERM.png)
 
 ```text
                     DP_CUSTOMERS
